@@ -20,7 +20,7 @@ Developed as a graduation project at Moscow Aviation Institute (2025).
 
 ## Screenshots
 
-![Example](images/example1.jpg)  
+![Example](predict/7_jpg.rf.d55f347efb3e4ed1af8a372440c83b48.jpg)  
 
 ## 🚀 Run the project
 
